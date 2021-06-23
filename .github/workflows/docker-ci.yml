@@ -47,4 +47,4 @@ jobs:
         run: cd client && npm ci
       - 
         name: Run test
-        run: npm test
+        run: cd client && npm test
