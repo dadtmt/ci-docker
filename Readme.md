@@ -1,3 +1,1 @@
-# Quest 1729
-
-Launch the app with the following command: `docker-compose -f docker-compose.dev.yml up --build`
+![docker-ci](https://github.com/dadtmt/ci-docker/actions/workflows/docker-ci.yml/badge.svg)
